@@ -1,0 +1,12 @@
+las API tienen la facilidad que permite conectar diferentes plataformas para que comindades, gobiernos locales y organizaciones centralicen
+y automaticen datos. esto facilita la creacion de sistemas donde los usuarios pueden enviar y recibir alertas locales y organizaciones
+centralicem  y automaticen datos. esto facilita la creacion de sistemas donde los usuarios pueden enviar reportes rapido y recibir alertas.
+tambien nos sirve mucho la integracion multicanal esto permite que una alerta enviada desde un bot de mensajeria como whapsapp u otra red
+social se consolide automaticamente en una base de datos central o mapa interactivo.
+otra es la sincronizacion de fuentes porque unifican reportes provenientes de diversas aplicaciones, evitando que la informacion se disperse.
+otros son las alertas instantaneas mediante servicios de mensajeria como twilio porque el sistema puede enviar notificaciones push o SMS
+automaticas a los vecinos cuando se registra un accidente o sea tambien sobre el clima la seguridad u obras cerca entonces por eso se 
+requirere de la ubicacion.
+los mapas interactivos al integrar APIs de mapas las comunidades pueden visualizar los reportes en un mapa en tiempo real asi se pueden
+identificar zonas de riesgo o areas que necesitan atencion.
+integracion de datos publicos: se pueden conestar apis de instituciones oficialesn para contrastar los reportes de datos en la comunidad.

@@ -1,0 +1,14 @@
+una ruta api es la direcccion url especifica que le 
+permite a una aplicacion comunicarse con otra
+para solicitar, crear o modificar  datos.
+funciona como una direccion de un sitio web pero
+esta diseñada para que los sistemas intercambien
+informacion.
+¿para que podria servir en una aplicacion comunitaria?
+para habilitar funciones como:
+pagos y cuotas:integrar stripe o paypal.para donaciones
+geolocalizacion:para ubicar reportes averias en el barrio
+gestion de identidad:permitir el inicio de sesion rapido
+facilitando el resgistro y evitando contraseñas dañadas
+calendarios: sincronizar eventos comunitarios para quw
+los vecinos recuerden asambleas u otros eventos.

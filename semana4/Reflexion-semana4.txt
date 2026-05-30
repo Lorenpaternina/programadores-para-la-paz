@@ -1,0 +1,10 @@
+Que las comunidades e iniciativas ciudadanas construyan sus propias herramientas tecnológicas utilizando tecnologías abiertas como Node.js es fundamental para 
+garantizar la soberania tecnologica, fomentar la inclusión digital y lograr la adaptación local frente a necesidades específicas.
+soberania y inpendencia Tecnológica. Permite a los grupos locales no depender de corporaciones o plataformas privativas, evitando la mercantilización
+de sus datos y garantizando que las decisiones sobre el proyecto sean tomadas por la misma comunidad.
+Adaptación Hiper-local. Las herramientas pueden ser diseñadas específicamente para responder a las dinámicas recursos y problemáticas de Turbo y su entorno
+algo que los programas comerciales estandarizados no suelen lograr.
+Al ser Node.js de código abierto, no requiere costosas licencias de software. Además al utilizar JavaScript tanto en el servidor como en el cliente,
+los equipos ciudadanos pueden desarrollar aplicaciones completas (web y móvil) de manera más rápida y con menos barreras de aprendizaje.
+Al utilizar un ecosistema abierto, cualquier comunidad puede compartir sus código mejoras e innovaciones para que otros grupos con problemas similares 
+alrededor del mundo puedan reutilizarlos y adaptarlos.

@@ -7,9 +7,3 @@
   "tipo": "ambiente",
   "descripcion": "problemas con el servicio de aseo"
 }
-
-
-
-
-
-

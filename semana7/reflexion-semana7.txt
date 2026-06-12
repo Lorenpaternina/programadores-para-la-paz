@@ -1,0 +1,9 @@
+Una plataforma tecnológica de reportes permite a los vecinos gestionar problemas cotidianos de manera eficiente,
+Centralizar, estandarizar y hacer transparentes los datos reduce el tiempo de inactividad,
+impulsa la toma de decisiones basada en datos reales y fortalece el sentido de pertenencia por el entorno.
+Transparencia y seguimiento: Permite a los usuarios consultar el estado de su solicitud en tiempo real,
+brindando visibilidad sobre el ciclo de vida del incidente y evitando la duplicidad de reportes.
+Participación y colaboración: Facilita la comunicación directa entre la administración local y los ciudadanos,
+permitiendo adjuntar evidencias como fotografías o geolocalización.
+Gestión proactiva: Transforma la atención a las quejas de un proceso reactivo a uno organizado,
+ optimizando la asignación de recursos y el tiempo de respuesta.

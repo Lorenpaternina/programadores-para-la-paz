@@ -1,0 +1,4 @@
+3 practicas de seguridad digital
+°seguridad de datos
+°no compartir credenciales
+°evita enlaces sospechosos

@@ -1,0 +1,5 @@
+1 definir roles y permisos claros
+2 usar autrenticacion en dos pasos
+3 mantener software actualizado
+4 validar todo contenido compartido
+5 realizar copias de seguridad frecuentes

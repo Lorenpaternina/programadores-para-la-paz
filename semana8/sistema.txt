@@ -1,0 +1,14 @@
+¿que informacion muestra cada comando?
+uname -a : muestra informacioncompleta del sistema
+nombre del nucleo,version,arquitectura, 
+tipo de sistema operativo y fecha de compilacion.
+whoami : devuelve el nombre del usuaro actual
+que esta concetado y ejecutando comandos.
+
+¿porque es util conocer esta informacion al administrar
+un servidor?
+- permite saber si hay actualizaciones de seguridad
+-verifica compatibilidad de programas
+-controla quien accede y evita cambios por usuarios no autorizados
+-mantiene el entorno seguro ordenado y conforme a los permisos
+definidos.

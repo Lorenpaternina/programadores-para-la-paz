@@ -1,1 +1,18 @@
+cuando ejecuto el comando node server.js inicia el servidor
+definido en el archivo serer.js en la terminal aparece un mesaje 
+indicando que el servidor esta corriendo en el puerto 3000 y queda
+listo para recibir solicitudes desde el navegador.
+¿que mensaje aparece? servidor activo y funcionando.
+la ruta estado ¿que aparece?
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+
+
+
+
+
+
 

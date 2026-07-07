@@ -1,1 +1,8 @@
+Evento: un usuario completa un formulario de contacto en la página web.
 
+Acción: enviar una notificación al grupo de Telegram del equipo de atención.
+
+Mensaje: "Nuevo formulario recibido. Revisar la información y responder al usuario."
+
+Información que no debe enviarse: nombres completos, números de identificación, direcciones, correos electrónicos,
+teléfonos, contraseñas o cualquier otro dato personal o sensible.

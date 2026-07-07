@@ -5,7 +5,7 @@ Campos principales:
  id: 101 427 00
 titulo: Parque limpio para el barrio
  descripcion: Jornada comunitaria para recoger residuos y sembrar árboles.
- fecha: **05/07/2026**
+ fecha: 05/07/2026
 
 Propósito:
 Guardar las causas comunitarias que serán visibles en la plataforma para que los ciudadanos puedan conocerlas y participar.

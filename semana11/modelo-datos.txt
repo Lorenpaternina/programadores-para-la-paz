@@ -23,5 +23,4 @@ comentario: "Apoyo esta iniciativa y participaré en la jornada de limpieza."
 
 Propósito:
 Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación de la comunidad.
-Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación de la comunidad.
 

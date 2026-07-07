@@ -1,1 +1,17 @@
+1. Como ciudadano quiero reportar un problema en mi comunidad para que las autoridades puedan revisarlo y darle solución.
 
+2. Como coordinador quiero recibir una notificación cuando se registre un nuevo reporte para atenderlo lo más pronto posible.
+
+3. Como miembro del equipo quiero consultar el estado de los reportes para hacer seguimiento a los casos pendientes.
+-------------------------------------------------------------------------------------------------------------------------
+1. Como ciudadano quiero adjuntar fotos al reporte para mostrar evidencia del problema.
+
+2. Como coordinador quiero asignar cada reporte a un responsable para que sea atendido de manera organizada.
+
+3. Como miembro de la comunidad quiero recibir un mensaje cuando mi reporte sea resuelto para conocer el resultado del caso.
+--------------------------------------------------------------------------------------------------------------------------
+1. Como ciudadano quiero consultar los reportes de mi comunidad para conocer los problemas que ya fueron registrados.
+
+3. Como administrador quiero generar un informe de los reportes registrados para evaluar las necesidades de la comunidad y tomar decision
+
+3. Como supervisor quiero revisar los reportes pendientes para priorizar los casos más urgentes.

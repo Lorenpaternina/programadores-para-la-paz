@@ -1,1 +1,6 @@
-
+°Un usuario ingresa una nueva petición.
+°La petición se almacena en la base de datos.
+°Los ciudadanos visualizan la petición.
+°Los ciudadanos registran su apoyo.
+°El sistema contabiliza los apoyos recibidos.
+°El sistema genera un documento PDF con los resultados de la petición.

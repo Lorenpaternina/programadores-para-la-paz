@@ -1,1 +1,16 @@
+Petición
 
+Causa: necesidad rural
+id:	19 477
+titulo:	Mejorar el parque del barrio
+descripcion:	Solicitud para instalar juegos infantiles y más zonas verdes.
+fecha:	5/07/2026
+
+Ciudadano
+
+Causa: apoyo comunitario
+id:	101 675
+peticion: recaudar fondos
+id	102 485
+nombre:	kiara Gómez
+fecha_apoyo:16/07/2026

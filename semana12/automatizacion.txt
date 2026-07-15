@@ -1,1 +1,7 @@
 
+Evento: un ciudadano registra un apoyo a una petición.
+
+Mensaje: "Un nuevo apoyo ha sido registrado correctamente."
+
+Información que no debe enviarse: números de identificación, teléfonos, correos electrónicos, direcciones,
+contraseñas o cualquier otro dato personal del ciudadano.

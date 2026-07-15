@@ -1,1 +1,13 @@
-
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer
+la participación ciudadana y la organización comunitaria. Comprendí que una plataforma digital 
+facilita que las personas registren sus peticiones de forma rápida y organizada.
+También aprendí la importancia de almacenar la información en una base de datos 
+para mantener un buen control de los registros. Conocí cómo un sistema puede contar
+automáticamente los apoyos recibidos por una causa. Además, entendí que es posible generar 
+documentos como archivos PDF para presentar la información de manera ordenada.
+Aprendí que las automatizaciones permiten enviar notificaciones sin necesidad de hacerlo manualmente. 
+También comprendí la importancia de proteger los datos personales de los usuarios. 
+Este curso me ayudó a entender cómo se conectan el backend, el frontend,las api, la base de datos y 
+las automatizaciones en una misma solución. Considero que estas herramientas pueden facilitar 
+la comunicación entre la comunidad y las organizaciones. En general, aprendí que la tecnología puede
+contribuir a resolver necesidades de la comunidad de una forma más eficiente y organizada.
